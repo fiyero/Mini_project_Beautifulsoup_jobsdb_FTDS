@@ -9,3 +9,5 @@ Brainstorm and difficulties: I want to get the following information: job title,
 For easier reading purpose I remove all my personal comments from the jupyter notebbok. 
 If you have difficulties in reading the code, feel free to leave a comment.
 Thanks
+
+![github1](https://user-images.githubusercontent.com/38428076/48072027-a2020780-e216-11e8-8436-e47b6b17654b.jpg)
