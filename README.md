@@ -1,6 +1,8 @@
+# Web scraping with beautifulsoup:smile:
+
 https://medium.com/@patrickhk/web-scraping-job-search-engine-with-beautifulsoup-classwork-walkthrough-80fde2a59ccc
 
-This is the full code of my mini project using beautifulsoup to scrapy the job information in JobsDB. 
+This is the full code of my mini project using beautifulsoup to scrapy the job information in JobsDB. <br/>
 For explaination please refer to the above medium article.
 
 Objective: Scrape local jobs search website JobsDB
